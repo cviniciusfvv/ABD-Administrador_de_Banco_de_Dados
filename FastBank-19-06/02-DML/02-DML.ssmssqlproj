@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="02-DML">
+  <Items>
+    <LogicalFolder Name="Conexões" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Consultas" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="_Inserções inicial.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>_Inserções inicial.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Conteudo 01 - INSERT - UPDATE - DELETE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Conteudo 01 - INSERT - UPDATE - DELETE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Conteudo 02 - SELECT.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Conteudo 02 - SELECT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Conteudo 03 - T-SQL - 01.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Conteudo 03 - T-SQL - 01.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Conteudo 04 - T-SQL - 02.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Conteudo 04 - T-SQL - 02.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Conteudo 05-A - Criação de Objetos.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Conteudo 05-A - Criação de Objetos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Conteudo 05-B - Execução e testes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Conteudo 05-B - Execução e testes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Exercicios 01 - Inserções - Alterações e Exclusões - Lista 01.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Exercicios 01 - Inserções - Alterações e Exclusões - Lista 01.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Exercicios 02 - Inserções - Alterações e Exclusões - Lista 02.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Exercicios 02 - Inserções - Alterações e Exclusões - Lista 02.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Exercicios 03 - DDL e DML.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Exercicios 03 - DDL e DML.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Exercicios 04 - Consultas 01.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Exercicios 04 - Consultas 01.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Exercicios 05 - Consultas 02 - INNER JOIN.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Exercicios 05 - Consultas 02 - INNER JOIN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Exercicios 06  - Consultas 03 - Novas colunas.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Exercicios 06  - Consultas 03 - Novas colunas.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Diversos" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
